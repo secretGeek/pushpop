@@ -1,0 +1,136 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="729" measuredH="632" mockupW="623" mockupH="308">
+  <controls>
+    <control controlID="10" controlTypeID="__group__" x="106" y="324" w="292" h="142" measuredW="292" measuredH="142" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="0" y="0" w="292" h="142" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="10">
+          <controlProperties>
+            <bottomheight>0</bottomheight>
+            <dragger>false</dragger>
+            <text>Push%20Pop</text>
+            <topheight>26</topheight>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::TextInput" x="15" y="97" w="203" h="-1" measuredW="147" measuredH="27" zOrder="1" locked="false" isInGroup="10">
+          <controlProperties>
+            <text>Fix%20the%20coffee%20machine</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="233" y="97" w="-1" h="-1" measuredW="51" measuredH="27" zOrder="2" locked="false" isInGroup="10">
+          <controlProperties>
+            <text>Push</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="15" y="37" w="203" h="-1" measuredW="174" measuredH="32" zOrder="3" locked="false" isInGroup="10">
+          <controlProperties>
+            <bold>true</bold>
+            <size>24</size>
+            <text>Debug%20the%20SQL</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="233" y="34" w="-1" h="-1" measuredW="44" measuredH="27" zOrder="4" locked="false" isInGroup="10">
+          <controlProperties>
+            <text>Pop</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="77" w="292" h="-1" measuredW="100" measuredH="10" zOrder="5" locked="false" isInGroup="10"/>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::PointyButton" x="116" y="69" w="-1" h="-1" measuredW="57" measuredH="27" zOrder="6" locked="false" isInGroup="10">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <direction>center</direction>
+            <newLayout>true</newLayout>
+            <text>peek...</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::TitleWindow" x="437" y="324" w="292" h="308" measuredW="450" measuredH="400" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>0</bottomheight>
+        <dragger>false</dragger>
+        <text>Push%20Pop</text>
+        <topheight>26</topheight>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::TextInput" x="452" y="590" w="203" h="-1" measuredW="147" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Fix%20the%20coffee%20machine</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="670" y="590" w="-1" h="-1" measuredW="51" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Push</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="452" y="361" w="203" h="-1" measuredW="93" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <size>13</size>
+        <text>Debug%20the%20SQL</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Button" x="670" y="358" w="-1" h="-1" measuredW="44" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pop</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::List" x="462" y="438" w="252" h="124" measuredW="100" measuredH="126" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <text>Debug%20the%20SQL%0ADeploy%20SQL%0ANotify%20sql%20customer%20about%20new%20feature%0AChase%20ui%20customer%20for%20more%20detail</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="__group__" x="437" y="383" w="292" h="27" measuredW="292" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="9" w="292" h="-1" measuredW="100" measuredH="10" zOrder="0" locked="false" isInGroup="21"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="109" y="0" w="-1" h="-1" measuredW="75" measuredH="27" zOrder="1" locked="false" isInGroup="21">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <direction>center</direction>
+            <newLayout>true</newLayout>
+            <text>peeking...</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="22" controlTypeID="__group__" x="437" y="550" w="292" h="27" measuredW="292" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="9" w="292" h="-1" measuredW="100" measuredH="10" zOrder="0" locked="false" isInGroup="22"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="109" y="0" w="-1" h="-1" measuredW="66" measuredH="27" zOrder="1" locked="false" isInGroup="22">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <direction>center</direction>
+            <newLayout>true</newLayout>
+            <text>history...</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::VSlider" x="697" y="438" w="-1" h="108" measuredW="11" measuredH="33" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::SearchBox" x="452" y="406" w="256" h="-1" measuredW="120" measuredH="25" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>search%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Icon" x="450" y="442" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>HLinesIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Icon" x="450" y="463" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>HLinesIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Icon" x="450" y="485" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>HLinesIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Icon" x="450" y="506" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>HLinesIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
