@@ -3,7 +3,7 @@
 *mental stack manager*
 
 
-You're working on one thing... another problem arises... or an interruption occurs... you need to push the new thing on top of your mental stack.
+You're working on one problem, when another problem arises... or perhaps an interruption occurs... now you need to push the new thing on top of your mental stack. Start solving the new problem, but be ready to come back to the old problem.
 
 What do you do?
 
@@ -54,9 +54,9 @@ While peeking, you can also view previously completed items, if you click `histo
 As you can see from the balsamiq mockups above, this is just in the idea phase. It's based on [Next Action](http://www.timesnapper.com/NextAction/)
 
 
-## cli
+## CLI
 
-There could be commandline access.
+There could be a command-line interface.
 
     pushpop --peek                 # shows you what's on top
     pushpop --push "debug the sql" # puts a new item on top of your mental stack
@@ -67,18 +67,18 @@ There could be commandline access.
 
 ## Implementation
 
-Is left as exercise for the reader. I suggest [electron](http://electron.atom.io/).
+Well I've done the hard part, thinking it up and making mockups. Implementation is left as exercise for the reader. I suggest [electron](http://electron.atom.io/). Send me a pull request when you're done.
 
-If the stack was stored in the cloud &#2601;, then you could also have iOS/android version for stack operations while on the go.
+If the stack was stored in the cloud then you could also have iOS/android version for managing your mental stack while on the move.
 
 ## Last thing
 
-I didn't mention Yak Shaving. Why didn't I mention yak shaving? Here's a yak in need of shave:
+I didn't mention Yak Shaving. Why didn't I mention yak shaving? Here's a yak in need of a shave:
 
 ![Yak needing a shave](/image/yak.png)
 
 
-Image from [wikimedia commons](https://commons.wikimedia.org/wiki/File:Yak_Yama.jpg)
+Yak image from [wikimedia commons](https://commons.wikimedia.org/wiki/File:Yak_Yama.jpg)
 
 
 ---
