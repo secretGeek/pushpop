@@ -37,7 +37,7 @@ There's one more feature... `peek...`
 ![push pop](image/push_pop_peek.png)
 
 
-Peek let's you inspect the entire mental stack. You can drag items around to reorder them. You can search for items (and can move the item you find to the top of the stack).
+Peek lets you inspect the entire mental stack. You can drag items around to reorder them. You can search for items (and can move the item you find to the top of the stack).
 
 Finished peeking? Click `peeking...` to hide the stack away.
 
